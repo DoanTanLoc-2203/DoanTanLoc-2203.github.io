@@ -1,0 +1,114 @@
+* { margin: 0px; padding: 0px; font-family: Montserrat, sans-serif; }
+
+.footer h4 {
+    font-size: 24px;
+}
+
+.footer {
+    padding: 50px 0 50px 0;
+    background: black;
+    color: white;
+}
+
+.map iframe {
+    z-index: -1;
+    position: absolute;
+}
+
+.map {
+    width: 100%;
+    height: 500px;
+    /* background: rgb(0,0,0,0.7); */
+    position: relative;
+}
+
+.map {}
+
+.contact .but {
+    /* height: auto; */
+    padding-top: 40px;
+}
+
+.but {}
+
+.contact .col-xs-12.col-sm-4.col-md-4 {
+}
+
+.contact .col-xs-12.col-sm-4.col-md-4 {
+    padding: 40px 5px 0 5px;
+}
+
+.contact h3 {
+    font-size: 30px;
+}
+
+.contact {
+    padding: 250px 0 250px 0;
+    background: black;
+    color: white;
+}
+
+.contact a {
+    font-size: 20px;
+}
+
+.contact h3 {
+    padding-bottom: 40px;
+}
+
+.contact p {
+    font-size: 20px;
+    padding-bottom: 40px;
+    color: #;
+}
+
+.contact a {
+    color: #42DCA3;
+}
+
+.contact a:hover {
+    text-decoration: none;
+    color: #149B6C;
+}
+
+.contact a.btn.btn-default {
+    padding: 10px 25px 10px 25px;
+    background: rgb(0,0,0,0);
+    color: #42DCA3;
+    border: 1px solid;
+    border-radius: 0;
+    margin: 0 5px 0 5px;
+    font-size: 18px;
+}
+
+.contact a.btn.btn-default:hover {
+    color: black;
+    background: #42DCA3;
+}
+.download { padding: 100px 0px; background: url("../img/downloads-bg.jpg") 0% 0% / cover; color: white; }
+.download p { font-size: 20px; padding: 40px 0px; }
+.download h3 { font-size: 30px; }
+.navbar-default .navbar-brand:hover { color: white; }
+.about a { color: rgb(51, 220, 163); }
+.about a:hover { text-decoration: none; color: rgb(21, 148, 105); }
+a { }
+.download a.btn.btn-default { font-size: 20px; background: rgba(0, 0, 0, 0); color: rgb(61, 217, 150); border: 1px solid; border-radius: 0px; padding: 10px 15px; }
+.download a.btn.btn-default:hover { cursor: pointer; color: black; background: rgb(61, 217, 150); }
+.about h3 { font-size: 30px; padding-bottom: 45px; }
+.about { padding: 290px 0px; background: black; color: white; }
+.about p { font-size: 20px; padding-bottom: 18px; }
+.top h3 { padding-bottom: 50px; line-height: 34px; }
+.top i.far.fa-chevron-double-down { }
+.top h1 { font-size: 103px; font-weight: 700; padding-bottom: 50px; }
+.top { padding-top: 35vh; height: 100vh; width: 100vw; color: white; background: url("../img/intro-bg.jpg") center bottom / cover no-repeat scroll; }
+.top .icon { width: 70px; height: 70px; background: rgba(0, 0, 0, 0); margin: auto; line-height: 70px; font-size: 33px; border-radius: 50%; border: 2px solid; }
+.top .icon:hover { cursor: pointer; background: rgba(255, 255, 255, 0.2); }
+.navbar-default .navbar-nav > li > a { color: white; font-weight: 500; letter-spacing: 2px; }
+.navbar-default .navbar-nav > li > a:hover { color: rgb(209, 210, 211); }
+.nav.navbar-nav.navbar-right { color: white; }
+nav navbar-nav navbar-right > li > a:hover { cursor: pointer; color: gray; }
+ul.nav.navbar-nav.navbar-right { }
+.navbar-default .navbar-brand { color: white; }
+.navbar-default .navbar-brand i.fas.fa-play-circle { padding: 0px 10px; }
+nav.navbar.navbar-default.navbar-fixed-top { padding: 30px 0px; margin: 0px; background: rgba(0, 0, 0, 0); color: white; border: none; }
+nav.navbar.navbar-default.navbar-fixed-top { }
